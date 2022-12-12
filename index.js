@@ -6,7 +6,7 @@ let Person = require('./models/persons');
 //Environement variables
 
 require('dotenv').config();
-console.log(process.env);
+//console.log(process.env);
 
 //Database connection
 
